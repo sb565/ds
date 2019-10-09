@@ -8,3 +8,5 @@ b. [GeeksforGeeks](https://www.geeksforgeeks.org/red-black-tree-set-1-introducti
 
 2. [Circular Linked List](https://github.com/pratjosh9/ds/blob/master/circularll.cpp)  
 
+3. [Doubly Linked List](https://github.com/pratjosh9/ds/blob/master/doublyll.cpp)  
+
