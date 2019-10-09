@@ -10,3 +10,5 @@ b. [GeeksforGeeks](https://www.geeksforgeeks.org/red-black-tree-set-1-introducti
 
 3. [Doubly Linked List](https://github.com/pratjosh9/ds/blob/master/doublyll.cpp)  
 
+4. [Binary Search Tree](https://github.com/pratjosh9/ds/blob/master/doublyll.cpp)  
+
